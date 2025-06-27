@@ -1,0 +1,1 @@
+VeralteteRechner-AbfrageUndLoeschen.ps1
